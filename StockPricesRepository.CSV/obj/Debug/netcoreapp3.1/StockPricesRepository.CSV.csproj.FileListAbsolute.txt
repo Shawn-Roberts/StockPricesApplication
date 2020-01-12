@@ -1,0 +1,11 @@
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\bin\Debug\netcoreapp3.1\StockPricesRepository.CSV.deps.json
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\bin\Debug\netcoreapp3.1\StockPricesRepository.CSV.dll
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\bin\Debug\netcoreapp3.1\StockPricesRepository.CSV.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.dll
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\obj\Debug\netcoreapp3.1\StockPricesRepository.CSV.csprojAssemblyReference.cache
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\obj\Debug\netcoreapp3.1\StockPricesRepository.CSV.AssemblyInfoInputs.cache
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\obj\Debug\netcoreapp3.1\StockPricesRepository.CSV.AssemblyInfo.cs
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\obj\Debug\netcoreapp3.1\StockPricesRepository.CSV.csproj.CopyComplete
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\obj\Debug\netcoreapp3.1\StockPricesRepository.CSV.dll
+C:\temp\StockPricesApplication\StockPricesRepository.CSV\obj\Debug\netcoreapp3.1\StockPricesRepository.CSV.pdb

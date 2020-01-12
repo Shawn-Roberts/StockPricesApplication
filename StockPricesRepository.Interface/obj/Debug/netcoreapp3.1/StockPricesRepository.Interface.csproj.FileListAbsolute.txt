@@ -1,0 +1,8 @@
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.deps.json
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.dll
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\obj\Debug\netcoreapp3.1\StockPricesRepository.Interface.AssemblyInfoInputs.cache
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\obj\Debug\netcoreapp3.1\StockPricesRepository.Interface.AssemblyInfo.cs
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\obj\Debug\netcoreapp3.1\StockPricesRepository.Interface.dll
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\obj\Debug\netcoreapp3.1\StockPricesRepository.Interface.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.Interface\obj\Debug\netcoreapp3.1\StockPricesRepository.Interface.csprojAssemblyReference.cache
