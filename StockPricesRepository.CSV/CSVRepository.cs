@@ -25,18 +25,17 @@ namespace StockPricesRepository.CSV
             if (File.Exists(path))
             {
                     StreamReader reader = new StreamReader(path);
+                    reader.ReadLine();
                     string line;
                     while((line = reader.ReadLine()) != null)
                     {
                         var elements = line.Split(",");
                         var stock = new Stock()
                         {
-                            StockName = elements[0],
-                            StockTicker = elements[1],
-                            OpeningPrice = Double.Parse(elements[2]),
-                            ClosingPrice = Double.Parse(elements[3]),
-                            ChangeInPrice = Math.Abs(Double.Parse(elements[3]) - Double.Parse(elements[2])),
-                            StockDate = DateTime.Parse(elements[4])
+                            OpeningPrice = Double.Parse(elements[1]),
+                            ClosingPrice = Double.Parse(elements[4]),
+                            ChangeInPrice = Math.Abs(Double.Parse(elements[4]) - Double.Parse(elements[1])),
+                            StockDate = DateTime.Parse(elements[0])
                         };
                         stocks.Add(stock);
                         

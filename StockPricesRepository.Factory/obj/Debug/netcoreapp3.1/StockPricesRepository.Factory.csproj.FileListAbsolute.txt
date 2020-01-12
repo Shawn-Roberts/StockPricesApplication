@@ -1,0 +1,15 @@
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.Factory.deps.json
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.Factory.dll
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.Factory.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.API.dll
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.CSV.dll
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.dll
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.API.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.CSV.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\obj\Debug\netcoreapp3.1\StockPricesRepository.Factory.csprojAssemblyReference.cache
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\obj\Debug\netcoreapp3.1\StockPricesRepository.Factory.AssemblyInfoInputs.cache
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\obj\Debug\netcoreapp3.1\StockPricesRepository.Factory.AssemblyInfo.cs
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\obj\Debug\netcoreapp3.1\StockPricesRepository.Factory.csproj.CopyComplete
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\obj\Debug\netcoreapp3.1\StockPricesRepository.Factory.dll
+C:\temp\StockPricesApplication\StockPricesRepository.Factory\obj\Debug\netcoreapp3.1\StockPricesRepository.Factory.pdb

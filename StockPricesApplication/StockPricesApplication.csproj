@@ -8,11 +8,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\StockPricesRepository.CSV\StockPricesRepository.CSV.csproj" />
+    <ProjectReference Include="..\StockPricesRepository.Factory\StockPricesRepository.Factory.csproj" />
     <ProjectReference Include="..\StockPricesRepository.Interface\StockPricesRepository.Interface.csproj" />
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="xcopy &quot;$(SolutionDir)AdditionalFiles\StockPrices.txt&quot; &quot;$(TargetDir)&quot; /Y" />
+    <Exec Command="xcopy &quot;$(SolutionDir)AdditionalFiles\*.*&quot; &quot;$(TargetDir)&quot; /Y" />
   </Target>
 
 </Project>

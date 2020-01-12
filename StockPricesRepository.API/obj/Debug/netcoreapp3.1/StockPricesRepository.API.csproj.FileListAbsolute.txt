@@ -1,0 +1,11 @@
+C:\temp\StockPricesApplication\StockPricesRepository.API\bin\Debug\netcoreapp3.1\StockPricesRepository.API.deps.json
+C:\temp\StockPricesApplication\StockPricesRepository.API\bin\Debug\netcoreapp3.1\StockPricesRepository.API.dll
+C:\temp\StockPricesApplication\StockPricesRepository.API\bin\Debug\netcoreapp3.1\StockPricesRepository.API.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.API\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.dll
+C:\temp\StockPricesApplication\StockPricesRepository.API\bin\Debug\netcoreapp3.1\StockPricesRepository.Interface.pdb
+C:\temp\StockPricesApplication\StockPricesRepository.API\obj\Debug\netcoreapp3.1\StockPricesRepository.API.csprojAssemblyReference.cache
+C:\temp\StockPricesApplication\StockPricesRepository.API\obj\Debug\netcoreapp3.1\StockPricesRepository.API.AssemblyInfoInputs.cache
+C:\temp\StockPricesApplication\StockPricesRepository.API\obj\Debug\netcoreapp3.1\StockPricesRepository.API.AssemblyInfo.cs
+C:\temp\StockPricesApplication\StockPricesRepository.API\obj\Debug\netcoreapp3.1\StockPricesRepository.API.csproj.CopyComplete
+C:\temp\StockPricesApplication\StockPricesRepository.API\obj\Debug\netcoreapp3.1\StockPricesRepository.API.dll
+C:\temp\StockPricesApplication\StockPricesRepository.API\obj\Debug\netcoreapp3.1\StockPricesRepository.API.pdb

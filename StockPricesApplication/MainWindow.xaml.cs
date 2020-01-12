@@ -1,4 +1,5 @@
 ﻿using StockPricesRepository.CSV;
+using StockPricesRepository.Factory;
 using StockPricesRepository.Interface;
 using System;
 using System.Collections.Generic;
@@ -27,15 +28,25 @@ namespace StockPricesApplication
             InitializeComponent();
         }
 
+
+        /* ON CLICKS */
         private void CsvFetchButton_Click(object sender, RoutedEventArgs e)
         {
-            PopulateListBox();
+            PopulateListBox("CSV");
         }
 
-        private void PopulateListBox()
+        private void ServiceFetchButton_Click(object sender, RoutedEventArgs e)
+        {
+            PopulateListBox("API");
+        }
+
+
+        /* Processing */
+        private void PopulateListBox(string repositoryType)
         {
             ClearListBox();
-            IStockPricesRepository repository = new CSVRepository();
+            IStockPricesRepository repository = RepositoryFactory.GetRepository(repositoryType);
+            
             var prices = repository.GetStockPrice();
 
             foreach (var price in prices)
@@ -46,6 +57,7 @@ namespace StockPricesApplication
             ShowTicketText();
         }
 
+        /* Additional Tasks */
         private void ClearListBox()
         {
             StockListBox.Items.Clear();
@@ -54,6 +66,11 @@ namespace StockPricesApplication
         public void ShowTicketText()
         {
             TickerTextBlock.Text = "Lulu Lemon (LULU)";
+        }
+
+        private void ClearButton_Click(object sender, RoutedEventArgs e)
+        {
+            ClearListBox();
         }
     }
 }

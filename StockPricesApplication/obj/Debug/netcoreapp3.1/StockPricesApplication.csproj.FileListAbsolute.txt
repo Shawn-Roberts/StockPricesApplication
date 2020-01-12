@@ -23,3 +23,9 @@ C:\temp\StockPricesApplication\StockPricesApplication\obj\Debug\netcoreapp3.1\St
 C:\temp\StockPricesApplication\StockPricesApplication\obj\Debug\netcoreapp3.1\StockPricesApplication.csproj.CopyComplete
 C:\temp\StockPricesApplication\StockPricesApplication\obj\Debug\netcoreapp3.1\StockPricesApplication.dll
 C:\temp\StockPricesApplication\StockPricesApplication\obj\Debug\netcoreapp3.1\StockPricesApplication.pdb
+C:\temp\StockPricesApplication\StockPricesApplication\bin\Debug\netcoreapp3.1\StockPricesRepository.API.dll
+C:\temp\StockPricesApplication\StockPricesApplication\bin\Debug\netcoreapp3.1\StockPricesRepository.Factory.dll
+C:\temp\StockPricesApplication\StockPricesApplication\bin\Debug\netcoreapp3.1\StockPricesRepository.Factory.pdb
+C:\temp\StockPricesApplication\StockPricesApplication\bin\Debug\netcoreapp3.1\StockPricesRepository.API.pdb
+C:\temp\StockPricesApplication\StockPricesApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\temp\StockPricesApplication\StockPricesApplication\bin\Debug\netcoreapp3.1\ServiceStack.Text.dll

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockPricesRepository.API\StockPricesRepository.API.csproj" />
+    <ProjectReference Include="..\StockPricesRepository.CSV\StockPricesRepository.CSV.csproj" />
+    <ProjectReference Include="..\StockPricesRepository.Interface\StockPricesRepository.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
